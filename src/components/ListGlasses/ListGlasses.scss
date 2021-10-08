@@ -1,0 +1,14 @@
+@import "../../style/style.scss";
+
+.glasses {
+    background-color: #fff;
+    padding: 3rem;
+
+    &-image {
+        width: 110px;
+        border: 0.02rem solid gray;
+        margin: 0 0.5rem;
+        padding: 0.5rem 1rem;
+        cursor: pointer;
+    }
+}

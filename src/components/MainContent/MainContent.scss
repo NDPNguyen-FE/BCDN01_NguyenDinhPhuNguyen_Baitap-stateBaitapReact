@@ -1,0 +1,10 @@
+@import "../../style/style.scss";
+
+.main {
+    background-color: rgba(0, 0, 0, 0.8);
+    height: 100vh;
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+}
